@@ -1,6 +1,7 @@
 # Sales Report Dashboard
 
 Welcome to the Sales Report Dashboard repository. This repository contains the data files and Power BI dashboard used for analyzing sales performance and generating comprehensive reports.
+![image](https://github.com/user-attachments/assets/6dc68b47-1cf3-4cfa-a942-d961a137ae43)
 
 ## Contents
 
